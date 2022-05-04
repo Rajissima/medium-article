@@ -1,0 +1,15 @@
+.banner {
+  padding: 50px 0;
+  background-image: url(https://images.unsplash.com/photo-1649960234288-7049f6020779?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTY3NTQ4NQ&ixlib=rb-1.2.1&q=80&w=1000);
+  background-size: cover;
+  color: white;
+}
+div {
+  display: block;
+}
+body {
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: serif;
+}
